@@ -22,7 +22,7 @@ code {
 
 @media only screen and (max-width: 600px) {
   .m-nav-logo{
-    width: 80%;
+    display: none;
   }
   /* Working for phone */
   .m-foot-nav{
