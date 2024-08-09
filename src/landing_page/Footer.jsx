@@ -10,7 +10,7 @@ function Footer() {
                         <img src="media/images/logo.svg" alt="logo" style={{ width: "50%" }} />
                         <p style={{ fontSize: "12.8px" }} className='mt-3'>&copy; 2010 - 2024, Zerodha Broking Ltd. <br />All rights reserved.</p>
                     </div>
-                    <div className="col-lg-3 col-sm-12 fw-medium mb-3 p-4">
+                    <div className="col-lg-3 col-sm-12 fw-medium mb-1 p-4">
                         <p style={{ color: "RGB(66, 66, 66)", fontSize: "18px" }}>Company</p>
                         <Link to="/" style={{ textDecoration: "none solid rgb(66, 66, 66)", fontSize: "16px" }} className="text-muted lh-lg">About</Link><br />
                         <Link to="/" style={{ textDecoration: "none solid rgb(66, 66, 66)", fontSize: "16px" }} className="text-muted lh-lg">Products</Link><br />
@@ -21,7 +21,7 @@ function Footer() {
                         <Link to="/" style={{ textDecoration: "none solid rgb(66, 66, 66)", fontSize: "16px" }} className="text-muted lh-lg">Press & media</Link><br />
                         <Link to="/" style={{ textDecoration: "none solid rgb(66, 66, 66)", fontSize: "16px" }} className="text-muted lh-lg">Zerodha Cares (CSR)</Link><br />
                     </div>
-                    <div className="p-4 col-lg-3 col-sm-12 fw-medium mb-3">
+                    <div className="p-4 col-lg-3 col-sm-12 fw-medium mb-1">
                         <p style={{ color: "RGB(66, 66, 66)", fontSize: "18px" }}>Support</p>
                         <Link to="/" style={{ textDecoration: "none solid rgb(66, 66, 66)", fontSize: "16px" }} className="text-muted lh-lg">Contact us</Link><br />
                         <Link to="/" style={{ textDecoration: "none solid rgb(66, 66, 66)", fontSize: "16px" }} className="text-muted lh-lg">Support portal</Link><br />
@@ -33,14 +33,14 @@ function Footer() {
                         <Link to="/" style={{ textDecoration: "none solid rgb(66, 66, 66)", fontSize: "16px" }} className="text-muted lh-lg">How to file a complaint?</Link><br />
                         <Link to="/" style={{ textDecoration: "none solid rgb(66, 66, 66)", fontSize: "16px" }} className="text-muted lh-lg">Status of your complaints</Link><br />
                     </div>
-                    <div className="p-4 col-lg-3 col-sm-12 fw-medium mb-3">
+                    <div className="p-4 col-lg-3 col-sm-12 fw-medium mb-1">
                         <p style={{ color: "RGB(66, 66, 66)", fontSize: "18px" }}>Account</p>
                         <Link to="/" style={{ textDecoration: "none solid rgb(66, 66, 66)", fontSize: "16px" }} className="text-muted lh-lg">Open an account</Link><br />
                         <Link to="/" style={{ textDecoration: "none solid rgb(66, 66, 66)", fontSize: "16px" }} className="text-muted lh-lg">Fund transfer</Link><br />
                         <Link to="/" style={{ textDecoration: "none solid rgb(66, 66, 66)", fontSize: "16px" }} className="text-muted lh-lg">60 day challenge</Link><br />
                     </div>
                 </div>
-                <div className="mt-5 text-muted p-4 " style={{ fontSize: "10.4px", color: "#9B9B9B" }}>
+                <div className="mt-1 text-muted p-4 " style={{ fontSize: "10.4px", color: "#9B9B9B" }}>
                     <p style={{ color: "#9B9B9B" }}>Zerodha Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI Registration no.: INZ000031633 CDSL/NSDL: Depository services through Zerodha Broking Ltd. – SEBI Registration no.: IN-DP-431-2019 Commodity Trading through Zerodha Commodities Pvt. Ltd. MCX: 46025; NSE-50001 – SEBI Registration no.: INZ000038238 Registered Address: Zerodha Broking Ltd., #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School, J.P Nagar 4th Phase, Bengaluru - 560078, Karnataka, India. For any complaints pertaining to securities broking please write to complaints@zerodha.com, for DP related to dp@zerodha.com. Please ensure you carefully read the Risk Disclosure Document as prescribed by SEBI | ICF</p>
                     <p style={{ color: "#9B9B9B" }}>Procedure to file a complaint on SEBI SCORES: Register on SCORES portal. Mandatory details for filing complaints on SCORES: Name, PAN, Address, Mobile Number, E-mail ID. Benefits: Effective Communication, Speedy redressal of the grievances</p>
                     <p style={{ color: "#9B9B9B" }}>Smart Online Dispute Resolution | Grievances Redressal Mechanism</p>
