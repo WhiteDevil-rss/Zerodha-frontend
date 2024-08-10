@@ -16,7 +16,7 @@ function Universe() {
                     <div className="row">
                         <div className="col-lg-4 col-sm-12">
                             <img src="media/images/smallcaseLogo.png" alt="smallcase" style={{width:"50%",aspectRatio:"3/2",objectFit:"contain"}}/>
-                            <p className='text-small text-muted mt-1 p-1'>Thematic investment platform</p>
+                            <p className='text-small text-muted'>Thematic investment platform</p>
                         </div>
                         <div className="col-lg-4 col-sm-12">
                             <img src="media/images/streakLogo.png" alt="streak"  style={{width:"50%",aspectRatio:"3/2",objectFit:"contain"}}/>
@@ -32,15 +32,15 @@ function Universe() {
                     <div className="row">
                         <div className="col-lg-4 col-sm-12">
                             <img src="media/images/zerodhaFundhouse.png" alt="zerodhaFundhouse" style={{width:"50%",aspectRatio:"3/2",objectFit:"contain"}}/>
-                            <p className='text-small text-muted mt-1 p-1'>Thematic investment platform</p>
+                            <p className='text-small text-muted'>Asset management</p>
                         </div>
                         <div className="col-lg-4 col-sm-12">
                             <img src="media/images/tijori.svg" alt="tijori"  style={{width:"50%",aspectRatio:"3/2",objectFit:"contain"}}/>
-                            <p className='text-small text-muted'>Algo & strategy platform</p>
+                            <p className='text-small text-muted'>Fundamental research platform</p>
                         </div>
                         <div className="col-lg-4 col-sm-12">
                             <img src="media/images/dittoLogo.png" alt="ditto" style={{width:"50%",aspectRatio:"3/2",objectFit:"contain"}}/>
-                            <p className='text-small text-muted'>Option trading platform</p>
+                            <p className='text-small text-muted'>Insurance</p>
                         </div>
                     </div>
                 </section>

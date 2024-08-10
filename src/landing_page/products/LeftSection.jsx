@@ -6,7 +6,7 @@ function LeftSection({ imageURL, productName, productDescription, tryDemo, learn
         <div className='container'>
             <div className="row p-5 mb-5">
                 <div className="col-lg-8 col-sm-12 p-5">
-                    <img src={imageURL} alt="UiImage" />
+                    <img src={imageURL} alt="UiImage" style={{width:"70%",aspectRatio:"3/2",objectFit:"contain"}}/>
                 </div>
                 <div className="col-lg-4 col-sm-12 p-5 lh-lg">
                     <h1>{productName}</h1>

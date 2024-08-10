@@ -19,7 +19,7 @@ function RightSection({ imageURL, productName, productDescription, learnMore, go
                 </div>
                 <div className="col-lg-1 col-sm-0"></div>
                 <div className="col-lg-6 col-sm-12 -mt-5">
-                    <img src={imageURL} alt="UiImage" className='-mt-5' />
+                    <img src={imageURL} alt="UiImage" className='-mt-5' style={{width:"90%",aspectRatio:"3/2",objectFit:"contain"}}/>
                 </div>
             </div>
         </div>
