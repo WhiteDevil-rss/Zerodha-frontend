@@ -16,7 +16,7 @@ function Hero() {
                         <h4 className='lh-lg fw-normal'>Search for an answer or browse help topics to create a ticket</h4>
                         <form action="/">
                             <div class="input-group mb-3 mt-3">
-                                <input type="text" className="form-control form-control-lg" style={{ fontSize: "16px", lineHeight: "36px" }} placeholder="Eg: how do i activate F&O, why is my order getting rejected ..." aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" autoFocus />
+                                <input type="text" className="form-control form-control-lg p-3" style={{ fontSize: "16px"}} placeholder="Eg: how do i activate F&O, why is my order getting rejected ..." aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" autoFocus />
                                 <span class="input-group-text" id="inputGroup-sizing-lg"><button type='submit' style={{ border: "none" }}><i class="fa-solid fa-magnifying-glass fa-lg"></i></button></span>
                             </div>
                         </form>
